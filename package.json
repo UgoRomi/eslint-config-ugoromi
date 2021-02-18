@@ -1,14 +1,16 @@
 {
-  "name": "eslint-ugoromi",
+  "name": "eslint-config-ugoromi",
   "version": "1.0.0",
   "description": "My personal eslint configuration",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Ugo Romi <ugo.romi@gmail.com>",
+  "license": "MIT",
+  "repository": "",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.15.1",
     "@typescript-eslint/parser": "^4.15.1",
