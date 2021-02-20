@@ -16,4 +16,4 @@ Just need to extend `ugoromi/typescript` instead of `ugoromi`
 
 [eslint-config-wesbos](https://github.com/wesbos/eslint-config-wesbos) for the idea and reference  
 [This freecodecamp article by Leonardo Faria](https://www.freecodecamp.org/news/creating-your-own-eslint-config-package/)
-and [The official docs](https://eslint.org/docs/developer-guide/shareable-configs) to understand how to make it 
+and [The official docs](https://eslint.org/docs/developer-guide/shareable-configs) for instructions on how to make this
