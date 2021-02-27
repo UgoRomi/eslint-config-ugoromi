@@ -1,5 +1,5 @@
 module.exports = {
-	extends: ["plugin:react/recommended", "prettier/react", "./.eslintrc.js"],
+	extends: ["./.eslintrc.js", "plugin:react/recommended", "prettier/react"],
 	parserOptions: {
 		ecmaFeatures: {
 			jsx: true,
