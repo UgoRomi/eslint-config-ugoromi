@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-ugoromi",
-	"version": "1.0.9",
+	"version": "1.0.10",
 	"description": "My personal eslint configuration",
 	"main": "index.js",
 	"scripts": {
