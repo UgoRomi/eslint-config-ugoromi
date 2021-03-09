@@ -12,6 +12,6 @@ module.exports = {
 	},
 	rules: {
 		"no-plusplus": ["error", { allowForLoopAfterthoughts: true }],
-		"semi": "never",
+		"semi": 0,
 	},
-};
+}
