@@ -10,5 +10,8 @@ module.exports = {
 		ecmaVersion: 12,
 		sourceType: "module",
 	},
-	rules: { "no-plusplus": ["error", { allowForLoopAfterthoughts: true }] },
+	rules: {
+		"no-plusplus": ["error", { allowForLoopAfterthoughts: true }],
+		"semi": "never",
+	},
 };
